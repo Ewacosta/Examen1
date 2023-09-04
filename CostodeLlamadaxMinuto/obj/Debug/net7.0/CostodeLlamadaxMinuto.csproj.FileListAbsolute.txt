@@ -1,0 +1,15 @@
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\bin\Debug\net7.0\CostodeLlamadaxMinuto.exe
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\bin\Debug\net7.0\CostodeLlamadaxMinuto.deps.json
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\bin\Debug\net7.0\CostodeLlamadaxMinuto.runtimeconfig.json
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\bin\Debug\net7.0\CostodeLlamadaxMinuto.dll
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\bin\Debug\net7.0\CostodeLlamadaxMinuto.pdb
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.csproj.CoreCompileInputs.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.dll
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\refint\CostodeLlamadaxMinuto.dll
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.pdb
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\CostodeLlamadaxMinuto.genruntimeconfig.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\CostodeLlamadaxMinuto\obj\Debug\net7.0\ref\CostodeLlamadaxMinuto.dll
