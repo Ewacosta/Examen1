@@ -1,0 +1,5 @@
+C:\Users\Pinup\Desktop\ITCA\ADS\SistemaParaBiblioteca\obj\Debug\net7.0\SistemaParaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\SistemaParaBiblioteca\obj\Debug\net7.0\SistemaParaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinup\Desktop\ITCA\ADS\SistemaParaBiblioteca\obj\Debug\net7.0\SistemaParaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Pinup\Desktop\ITCA\ADS\SistemaParaBiblioteca\obj\Debug\net7.0\SistemaParaBiblioteca.AssemblyInfo.cs
+C:\Users\Pinup\Desktop\ITCA\ADS\SistemaParaBiblioteca\obj\Debug\net7.0\SistemaParaBiblioteca.csproj.CoreCompileInputs.cache
